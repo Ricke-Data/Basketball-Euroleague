@@ -27,7 +27,7 @@ This project demonstrates my knowledge in data management, ETL processes, data w
 
 ## How to Use
 
-1. ## Review the SQL scripts
+## Review the SQL scripts
 
 - Check the SQL and PL/SQL scripts in the `sql/` and `pl-sql/` directory to see how the database was created and populated.
 
