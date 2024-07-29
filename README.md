@@ -47,12 +47,12 @@ This project demonstrates my knowledge in data management, ETL processes, data w
 
 ### ODI Processes
 
-Example of an ODI process used for ETL: 
+Examples of an ODI process used for ETL: 
 (Images/ODI Euroleague Package.png) 
 (Images/ODI Euroleague Package_Scenarios.png) 
 (Images/ODI Euroleague Load_Plan.png) 
 
 ### Database Examples
 
-Example of the database structure: 
+Examples of the database structure: 
 (images/Euroleague... .png) 
