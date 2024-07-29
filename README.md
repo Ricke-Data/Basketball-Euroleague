@@ -27,9 +27,34 @@ This project demonstrates my knowledge in data management, ETL processes, data w
 
 ## How to Use
 
-1. Clone the repository to your local machine.
-2. Review the SQL scripts and ODI processes included in the repository.
-3. Open the Power BI file to explore the visualizations and reports.
+## Review the SQL scripts
+
+- Check the SQL and PL/SQL scripts in the `sql/` and `pl-sql/` directory to see how the database was created and populated.
+
+## Open the Power BI file
+
+- Open the Power BI file in the `powerbi/` directory to explore the visualizations and reports.
+
+## View ODI process examples
+
+- Review the images of ODI processes in the `images/odi` directory to understand the ETL processes.
+
+## View database examples
+
+- Review the images of the database in the `images/euroleague` directory to see the structure and data.
+
+## Images
+
+### ODI Processes
+
+Examples of an ODI process used for ETL: 
+(Images/ODI Euroleague Package.png) 
+(Images/ODI Euroleague Package_Scenarios.png) 
+(Images/ODI Euroleague Load_Plan.png) 
+
+### Database Examples
+
+Examples of the database structure: 
+(images/Euroleague... .png) 
 
 Feel free to explore the repository and provide any feedback or suggestions.
-
