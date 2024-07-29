@@ -29,7 +29,7 @@ This project demonstrates my knowledge in data management, ETL processes, data w
 
 1. ## Review the SQL scripts
 
-- Check the SQL scripts in the `sql/` directory to see how the database was created and populated.
+- Check the SQL and PL/SQL scripts in the `sql/` and `pl-sql/` directory to see how the database was created and populated.
 
 ## Open the Power BI file
 
@@ -47,12 +47,12 @@ This project demonstrates my knowledge in data management, ETL processes, data w
 
 ### ODI Processes
 
-Example of an ODI process used for ETL:
-![ODI Process](Images/ODI Euroleague Package.png)
-![ODI Process](Images/ODI Euroleague Package_Scenarios.png)
-![ODI Process](Images/ODI Euroleague Load_Plan.png)
+Example of an ODI process used for ETL: 
+(Images/ODI Euroleague Package.png) 
+(Images/ODI Euroleague Package_Scenarios.png) 
+(Images/ODI Euroleague Load_Plan.png) 
 
 ### Database Examples
 
-Example of the database structure:
-![Database Structure](images/Euroleague... .png)
+Example of the database structure: 
+(images/Euroleague... .png) 
