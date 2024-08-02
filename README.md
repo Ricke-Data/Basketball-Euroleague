@@ -55,6 +55,11 @@ Examples of an ODI process used for ETL:
 ### Database Examples
 
 Examples of the database structure: 
-(images/Euroleague... .png) 
+(Images/Euroleague... .png) 
+
+### Power BI Examples
+
+Examples of Power BI presentations:
+(Images/PowerBI... .png)
 
 #### Feel free to explore the repository and provide any feedback or suggestions.
